@@ -1,0 +1,12 @@
+# English translations
+site:
+    name: Antonio Campos
+    description: My personal page
+    keywords: development, website
+
+sections:
+    header:
+        menu:
+    about:
+        text: Under construction.
+    footer:

@@ -1,0 +1,24 @@
+title: Antonio Campos
+email: geckocore03@outlook.com
+baseurl: ""
+url: "/"
+
+owner:
+    avatar_hash: cff3e11c78e0e1068164741c02d2c186
+    twitter: glxnull
+    github: glxnull
+    lastfm: shellgecko
+
+sass:
+    sass_dir: _sass
+    sourcemap: false
+    style: compressed
+
+languages: ["en", "es"]
+exclude_from_localizations: ["css", "img", "js", "webfonts"]
+defaultLang: en
+languageNames:
+    en: English
+    es: Spanish
+
+exclude: ["Gemfile", "README.md"]

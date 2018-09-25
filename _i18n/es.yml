@@ -1,0 +1,12 @@
+# Traducciones en Español
+site:
+    name: Antonio Campos
+    description: Mi pagina personal
+    keywords: desarrollo, sitio web
+
+sections:
+    header:
+        menu:
+    about:
+        text: En construccion
+    footer:
